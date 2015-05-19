@@ -17,7 +17,22 @@ http://www.chattanoogachamber.com/can-do/site-selection/state-of-tennessee-incen
 http://nooga.com/166483/city-hall-to-launch-small-business-incentive-program/
 - <b> Small Business Program:</b> Yearlong program began July 1, 2014. City government will give businesses with 100 or fewer employees $500 for each new job they create. Businesses are required to create five or more jobs to participate. To qualify, the jobs must be for at least one year and pay a living wage, according to Nick Wilkinson, Chattanooga’s deputy administrator for the Department of Economic and Community Development.
 
+http://www.thegigtank.com/gig-city
+- Entrepreneurial culture and support
 
 # STEM
 
+http://chattanoogagig.com/
+- Gigabit internet
+
+http://www.stemschoolchattanooga.net/
+- STEM schools
+
 # Quality of Life
+
+http://www.esri.com/data/esri_data/ziptapestry
+- Median household income in Chattanooga (zip: 37341) higher than US
+
+http://www.bestplaces.net/economy/city/tennessee/chattanooga
+- There is no income tax
+
